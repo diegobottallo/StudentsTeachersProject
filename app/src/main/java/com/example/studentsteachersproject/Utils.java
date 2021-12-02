@@ -6,10 +6,12 @@ import java.util.ArrayList;
 
 public class Utils {
 
+    //ADMIN
     final static String INTENT_KEY_ADMIN_NAME = "admin_name";
     final static String INTENT_KEY_ADMIN_LASTNAME = "admin_lastname";
     final static String INTENT_KEY_ADMIN_ID = "admin_id";
 
+    //STUDENT
     final static String INTENT_KEY_STUDENT_NAME = "student_name";
     final static String INTENT_KEY_STUDENT_LASTNAME = "student_lastname";
     final static String INTENT_KEY_STUDENT_CLASSNAME = "student_classname";
