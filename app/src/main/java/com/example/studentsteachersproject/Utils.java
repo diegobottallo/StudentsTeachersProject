@@ -23,9 +23,11 @@ public class Utils {
     final static String INTENT_KEY_TEACHER_SUBJECT_ID = "teacher_subject_id";
     final static String INTENT_KEY_TEACHER_ID = "teacher_id";
 
+    //CLASSROOM
     final static String INTENT_KEY_CLASSROOM_NAME = "classroom_name";
     final static String INTENT_KEY_CLASSROOM_TUTOR_ID = "classroom_tutor_id";
 
+    //SUBJECT
     final static String INTENT_KEY_SUBJECT_NAME = "subject_name";
     final static String INTENT_KEY_SUBJECT_ID = "subject_id";
     final static String INTENT_KEY_SUBJECT_CLASSROOM = "subject_classroom";
