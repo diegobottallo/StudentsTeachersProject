@@ -17,6 +17,7 @@ public class Utils {
     final static String INTENT_KEY_STUDENT_CLASSNAME = "student_classname";
     final static String INTENT_KEY_STUDENT_AVERAGE = "student_average";
 
+    //TEACHER
     final static String INTENT_KEY_TEACHER_NAME = "teacher_name";
     final static String INTENT_KEY_TEACHER_LASTNAME = "teacher_lastname";
     final static String INTENT_KEY_TEACHER_SUBJECT_ID = "teacher_subject_id";
